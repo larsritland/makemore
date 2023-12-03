@@ -1,0 +1,5 @@
+/__pycache__
+recursive-exclude * *.py[co]
+/.venv
+/out
+/names
